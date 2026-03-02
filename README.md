@@ -12,3 +12,15 @@ Delves into revenue distribution across cities, hotel categories, and booking pl
 
 Booking Analysis:
 Examines booking patterns, cancellations, and guest behavior. This yields actionable insights to improve operational efficiency and drive revenue growth.
+
+Key insights:
+
+AtliQ Exotica had the highest RevPAR (₹7.82) despite lower occupancy.
+
+AtliQ City faced the highest cancellation impact, totaling ₹11.86M.
+
+Direct Online was the most profitable platform, generating ₹37M.
+
+AtliQ Bay saw peak revenue growth in June and July.
+
+Mumbai and Delhi branches maintained high average ratings above 86%.
