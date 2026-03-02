@@ -25,3 +25,6 @@ Gives a snapshot of vital performance indicators like revenue, RevPAR, and occup
 
 - AtliQ lost around 298 Million in cancellation.
 
+
+***Live Dashboard***
+https://app.powerbi.com/view?r=eyJrIjoiNDQ3ZGJiYTAtNWVhMC00MzUyLWEyYWMtMDcxODk5MzQ3OWFmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
