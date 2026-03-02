@@ -17,13 +17,11 @@ Gives a snapshot of vital performance indicators like revenue, RevPAR, and occup
 
 - AtliQ Bay saw peak revenue growth in June and July.
 
-- Mumbai and Delhi branches maintained high average ratings above 86%.
-
 - Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi.
 
-- AtliQ Bay has the highest occupancy of 66%
+- AtliQ Bay has the highest occupancy of 66%.
 
-- Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
+- Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore.
 
-- AtliQ lost around 298 Million in cancellation
+- AtliQ lost around 298 Million in cancellation.
 
