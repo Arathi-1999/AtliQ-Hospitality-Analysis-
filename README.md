@@ -9,6 +9,11 @@ This project offers two comprehensive views:
 Performance Overview:
 Gives a snapshot of vital performance indicators like revenue, RevPAR, and occupancy percentage. Detailed metrics such as average rates and cancellation percetage are included.
 
+**Tools Used:**
+
+1. Excel
+2. Power BI 
+
 **Key insights:**
 
 - AtliQ Exotica had the highest RevPAR (₹7.82) despite lower occupancy.
